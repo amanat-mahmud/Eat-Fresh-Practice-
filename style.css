@@ -1,0 +1,99 @@
+span{
+    color:rgb(252,82,52);
+}
+.skip h1{
+    font-size: 40px;
+}
+.skip{
+    margin-top: 80px;
+}
+.skip .texts{
+    margin-left: 65px ;
+}
+.flexible{
+    display:flex;
+}
+.half-width{
+    width: 50%;
+}
+.skip img{
+    margin-left: 10px;
+    width: 98%;
+}
+.btn{
+    text-decoration:none;
+    color:aliceblue;
+    background-color:  rgb(252,82,52);
+    padding: 10px;
+    border-radius: 30px;
+}
+.about{
+    margin-top: 80px;
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    height: 400px;
+}
+.me{
+    padding-top: 90px;
+}
+.about .fem{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.fem img{
+    margin-top: 5px;
+    width: 50%;
+}
+.about .me h1{
+    font-size: 30px;
+}
+.lorem{
+    text-align: center;
+}
+.lorem p{
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.half{
+    width:50%;
+}
+.half img{
+    width: 100%;
+}
+.recimg{
+    margin-left: 40px;
+    margin-right: 20px;
+    border: 20px solid white;
+    box-shadow: 2px 2px 20px gray;
+    border-radius: 20px;
+}
+.follow{
+    display: flex;
+    background-color: white;
+    box-shadow: 2px 2px 20px gray;
+    border-radius: 20px;
+    margin: 50px 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.youtube{
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 100px;
+}
+.insta{
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 150px;
+}
+.dribble{
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 150px;
+}
+footer{
+    margin: 0px;
+    background-color: rgb(252,82,52);
+    color:aliceblue;
+    text-align: center;
+    padding: 20px;
+}
